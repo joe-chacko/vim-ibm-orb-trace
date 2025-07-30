@@ -1,0 +1,8 @@
+= IBM Java ORB Trace Syntax highlighting for Vim
+
+This content is provided as-is, for reference purposes.
+The structure under +vimrc+ should be copied into an existing +.vimrc+ directory.
+
+== Future improvements
+* turn this into a vim plugin
+* test with neovim
